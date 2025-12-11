@@ -1,0 +1,21 @@
+.box1, .box2 {
+    display: inline-block;   
+    width: 150px;            
+    padding: 20px;
+    color: white;
+    float: left;             
+    margin-right: 10px;
+}
+
+.box1 {
+    background-color: teal;   
+}
+
+.box2 {
+    background-color: orange; 
+}
+
+.text {
+    clear: both;              
+    font-size: 18px;
+}
