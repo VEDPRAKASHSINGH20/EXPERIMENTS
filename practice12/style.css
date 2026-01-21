@@ -1,0 +1,19 @@
+body {
+    margin: 50px;
+    font-family: Arial, sans-serif;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.box {
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+}
+
+.box1 { background-color: rgba(255,0,0,0.5); }
+.box2 { background-color: rgba(0,255,0,0.5); }
+.box3 { background-color: rgba(0,0,255,0.5); }
