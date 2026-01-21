@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+.fixed-box {
+    height: 120px;
+    width: 200px;
+    background-color: green;
+    color: white;
+    text-align: center;
+    line-height: 120px;
+    position: fixed;
+    right: 0;
+    top: 40%;
+    z-index: 999;
+}
+
