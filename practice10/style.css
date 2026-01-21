@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    display: flex;
+    width: 80%;
+    margin: 50px auto;
+    gap: 20px;
+}
+
+.left {
+    flex: 6;
+    background-color: lightgray;
+    padding: 20px;
+}
+
+.right {
+    flex: 4;
+    background-color: lightblue;
+    padding: 20px;
+}
