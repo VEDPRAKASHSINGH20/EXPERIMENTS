@@ -1,0 +1,15 @@
+
+
+
+.navbar {
+    background-color: black;
+    padding: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.navbar a {
+    color: white;
+    margin-right: 20px;
+    text-decoration: none;
+}
